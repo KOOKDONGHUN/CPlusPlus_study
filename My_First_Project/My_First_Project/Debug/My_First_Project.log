@@ -1,3 +1,3 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (My_First_Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  local_area_sample.cpp
+  operator_relational.cpp
   My_First_Project.vcxproj -> C:\Users\dh397\CPlusPlus_study\My_first_Project\Debug\Start_Project.exe
