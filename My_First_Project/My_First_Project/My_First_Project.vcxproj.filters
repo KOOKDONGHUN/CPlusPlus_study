@@ -36,28 +36,34 @@
     <ClCompile Include="sysmbolic constants_sample.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="operator_precedence__associativity.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="arithmetic_operator.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="operator_sizeof_comma_conditional_sample.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="operator_increment_decrement.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="operator_relational.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="operator_logical.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="binary_number_sample.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="operator_bitwise_sample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="local_variable_Scope_Duration_sample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_Mask_Flag_sample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_increment_decrement_sample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_relational_sample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_precedence__associativity_sample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_logical_sample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arithmetic_operator_sample.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
