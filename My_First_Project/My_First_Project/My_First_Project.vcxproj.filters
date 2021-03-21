@@ -51,6 +51,12 @@
     <ClCompile Include="operator_relational.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="operator_logical.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="binary_number_sample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MY_CONSTANTS.h">
