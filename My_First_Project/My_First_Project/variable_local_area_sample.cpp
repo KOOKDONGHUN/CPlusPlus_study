@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	int x(0); //int x = 0; ㅌ(0)객체지향에서 주로 사용하는 방식
+	int x(0); //int x = 0; x(0)객체지향에서 주로 사용하는 방식
  
 	cout << x << " " << &x << endl;
 	{

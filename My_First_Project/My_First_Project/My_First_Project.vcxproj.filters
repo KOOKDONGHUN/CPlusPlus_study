@@ -27,9 +27,6 @@
     <ClCompile Include="function_sample.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="local_area_sample.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="operator_sample.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -43,9 +40,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="operator_bitwise_sample.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="local_variable_Scope_Duration_sample.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="bit_Mask_Flag_sample.cpp">
@@ -63,12 +57,33 @@
     <ClCompile Include="operator_logical_sample.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="arithmetic_operator_sample.cpp">
+    <ClCompile Include="variable_global_static__internalLinkage_externalLinkage.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_local_Scope_Duration_sample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_arithmetic_sample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_local_area_sample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test_.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="My_Constant.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ambiguity_using.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MY_CONSTANTS.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="My_Constant.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
