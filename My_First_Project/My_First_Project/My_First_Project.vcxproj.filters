@@ -78,6 +78,9 @@
     <ClCompile Include="ambiguity_using.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strcpy_sample.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MY_CONSTANTS.h">

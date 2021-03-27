@@ -27,7 +27,9 @@ int main()
 	int x = 3;
 	int y = 10;
 	int z = (++x, ++y);
-	/*++x;
+	/*
+	int z = (++x, ++y);는 아래와 같다 
+	++x;
 	++y;
 	z = y;*/
 
