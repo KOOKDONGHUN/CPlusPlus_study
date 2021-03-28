@@ -16,8 +16,8 @@ char *strcpy(char *dest, const char *src) // char 포인터를 반환 하는 함수
 	 */
 
 	 /* 0x000000d0713cf598 / 0x000000d0713cf558 */
-	while ((*dest++ = *src++) != '\0') { 
-		/* 
+	while ((*dest++ = *src++) != '\0') {
+		/*
 			0x000000d0713cf599 / 0x000000d0713cf559
 			0x000000d0713cf59a / 0x000000d0713cf55a
 			.
@@ -117,7 +117,7 @@ int main(void)
 	char src[32] = "Source string";
 	char dest[32] = "Destination string";
 
-	printf("src 주소 : %p, src 값 : %s\n",&src, src); //src 주소 : 0000002C0BEFFB78, src 값 : Source string
+	printf("src 주소 : %p, src 값 : %s\n", &src, src); //src 주소 : 0000002C0BEFFB78, src 값 : Source string
 	printf("dest 주소 : %p, dest 값 : %s\n", &dest, dest); //dest 주소 : 0000002C0BEFFBB8, dest 값 : Destination string
 
 	/* src 문자열을 dest 로 복사합니다. */
