@@ -48,60 +48,60 @@ char *strcpy(char *dest, const char *src) // char 器牢磐甫 馆券 窍绰 窃荐
 		printf("tmp 林家 : %p, tmp 蔼 : %s\n", &tmp, tmp);
 		/*
 		src 林家 : 0000002C0BEFFB78, src 蔼 : Source string
-dest 林家 : 0000002C0BEFFBB8, dest 蔼 : Destination string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Destination string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : estination string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sestination string
-src 林家 : 0000002C0BEFFB58, src 蔼 : ource string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sestination string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : stination string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sostination string
-src 林家 : 0000002C0BEFFB58, src 蔼 : urce string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sostination string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : tination string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Soutination string
-src 林家 : 0000002C0BEFFB58, src 蔼 : rce string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Soutination string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : ination string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourination string
-src 林家 : 0000002C0BEFFB58, src 蔼 : ce string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourination string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : nation string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourcnation string
-src 林家 : 0000002C0BEFFB58, src 蔼 : e string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourcnation string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : ation string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourceation string
-src 林家 : 0000002C0BEFFB58, src 蔼 :  string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourceation string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : tion string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source tion string
-src 林家 : 0000002C0BEFFB58, src 蔼 : string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source tion string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : ion string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source sion string
-src 林家 : 0000002C0BEFFB58, src 蔼 : tring
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source sion string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : on string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source ston string
-src 林家 : 0000002C0BEFFB58, src 蔼 : ring
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source ston string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : n string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source strn string
-src 林家 : 0000002C0BEFFB58, src 蔼 : ing
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source strn string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 :  string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source stri string
-src 林家 : 0000002C0BEFFB58, src 蔼 : ng
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source stri string
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : string
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source strinstring
-src 林家 : 0000002C0BEFFB58, src 蔼 : g
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source strinstring
-dest 林家 : 0000002C0BEFFB50, dest 蔼 : tring
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source stringtring
-src 林家 : 0000002C0BEFFB58, src 蔼 :
-tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source stringtring
+		dest 林家 : 0000002C0BEFFBB8, dest 蔼 : Destination string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Destination string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : estination string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sestination string
+		src 林家 : 0000002C0BEFFB58, src 蔼 : ource string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sestination string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : stination string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sostination string
+		src 林家 : 0000002C0BEFFB58, src 蔼 : urce string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sostination string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : tination string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Soutination string
+		src 林家 : 0000002C0BEFFB58, src 蔼 : rce string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Soutination string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : ination string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourination string
+		src 林家 : 0000002C0BEFFB58, src 蔼 : ce string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourination string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : nation string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourcnation string
+		src 林家 : 0000002C0BEFFB58, src 蔼 : e string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourcnation string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : ation string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourceation string
+		src 林家 : 0000002C0BEFFB58, src 蔼 :  string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Sourceation string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : tion string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source tion string
+		src 林家 : 0000002C0BEFFB58, src 蔼 : string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source tion string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : ion string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source sion string
+		src 林家 : 0000002C0BEFFB58, src 蔼 : tring
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source sion string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : on string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source ston string
+		src 林家 : 0000002C0BEFFB58, src 蔼 : ring
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source ston string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : n string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source strn string
+		src 林家 : 0000002C0BEFFB58, src 蔼 : ing
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source strn string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 :  string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source stri string
+		src 林家 : 0000002C0BEFFB58, src 蔼 : ng
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source stri string
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : string
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source strinstring
+		src 林家 : 0000002C0BEFFB58, src 蔼 : g
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source strinstring
+		dest 林家 : 0000002C0BEFFB50, dest 蔼 : tring
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source stringtring
+		src 林家 : 0000002C0BEFFB58, src 蔼 :
+		tmp 林家 : 0000002C0BEFFA48, tmp 蔼 : Source stringtring
 		*/
 
 	};
@@ -126,3 +126,5 @@ int main(void)
 
 	return 0;
 }
+
+/* 曼炼 https://hand-over.tistory.com/29 */
