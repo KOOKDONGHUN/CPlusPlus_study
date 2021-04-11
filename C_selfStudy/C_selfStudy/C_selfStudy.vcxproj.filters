@@ -15,17 +15,68 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="strcpy_sample.c">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="pointer_createPointerVariable.c">
+      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="pointer_createPointerVariable2.c">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_createPointerVariable.c">
-      <Filter>Resource Files</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="pointer_createPointerVariable3.c">
-      <Filter>Resource Files</Filter>
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="strcpy_sample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="linked_list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_createPointerVariable4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerreturnWarning.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerTypeCasting.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnString.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnStruct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnStructPointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReturnVoidPointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="school.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="strcpy_sample2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="strtok_sample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StructPointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VoidToDatatypeCasting.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_create.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="double_pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HowToUseString.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="readfile.c">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

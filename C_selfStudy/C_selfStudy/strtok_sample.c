@@ -34,6 +34,39 @@ char* strtok1(char* src,const char* delim)
 	return ret;
 }
 
+char* strtok2(char* _Str, const char* _Delim) 
+{
+	static char* pStr;
+	const char* pDelim;
+
+	if (_Str == NULL) {
+		if (*pStr == NULL) {
+			return NULL;
+		}
+		else {
+			_Str = pStr;
+		}
+	}
+	else {
+		pStr = _Str;
+	}
+
+	while (*pStr) {
+		pDelim = _Delim;
+		while (*pDelim){
+			if (*pStr == *pDelim) {
+				*pStr = '\0';
+				pStr++;
+				return _Str;
+			}
+			pDelim++;
+		}
+		pStr++;
+	}
+
+	return _Str;
+}
+
 int main()
 {
 	//char str[] = "Block D Mask.";    //구분할 문자열
@@ -41,12 +74,17 @@ int main()
 
 	//str[strlen(str)] = 'p';
 	//char *ptr = strtok1(str, " ");    //첫번째 strtok 사용.
-	char *ptr = strtok1(str, "+-= ");    //첫번째 strtok 사용.
+	char *ptr = strtok(str, "+-= ");    //첫번째 strtok 사용.
+	//char *ptr = strtok1(str, "+-= ");    //첫번째 strtok 사용.
+	//char *ptr = strtok2(str, "+-= ");    //첫번째 strtok 사용.
+	
 
 	while (ptr != NULL){              //ptr이 NULL일때까지 (= strtok 함수가 NULL을 반환할때까지)
 		printf("[%s]\n", ptr);         //자른 문자 출력
 		//ptr = strtok1(NULL, " ");     //자른 문자 다음부터 구분자 또 찾기
-		ptr = strtok1(NULL, "+-= ");
+		ptr = strtok(NULL, "+-= ");
+		//ptr = strtok1(NULL, "+-= ");
+		//ptr = strtok2(NULL, "+-= ");
 	}
 
 	printf("마지막 [%s]", str);
